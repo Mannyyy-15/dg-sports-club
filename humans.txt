@@ -1,0 +1,35 @@
+/* TEAM */
+Lead Developer: Manthan
+Design: D.G. Sports Club Creative Team
+SEO & Strategy: D.G. Sports Club Marketing
+
+/* SITE */
+Last Updated: 2026-07-19
+Standards: HTML5, CSS3, ES6+
+Components: Tailwind CSS, Lenis Smooth Scroll, GSAP
+Structured Data: Schema.org (JSON-LD)
+Performance: Core Web Vitals Optimized
+Accessibility: WCAG 2.2 AA
+
+/* THANKS */
+Outfit Font: Google Fonts
+Inter Font: Google Fonts
+Material Symbols: Google Fonts
+Images: Google AI (AIDA Public), Unsplash
+Icons: Material Symbols Outlined
+Smooth Scroll: Lenis by @studio-freight
+Animations: GSAP by GreenSock
+
+/* CONTACT */
+Email: admissions@dgsportsclub.com
+Phone: +91 98765 43210
+Address: Main Stadium Complex, Virar West, Maharashtra 401303
+
+/* SOCIAL */
+Facebook: https://facebook.com/dgsportsclub
+Instagram: https://instagram.com/dgsportsclub
+YouTube: https://youtube.com/@dgsportsclub
+
+/* COLOPHON */
+Built with precision for Virar's athletic community.
+"Build Strong Bodies. Build Futures."

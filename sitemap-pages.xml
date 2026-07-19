@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.dgsportsclub.com/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dgsportsclub.com/" />
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/about.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/about.html" />
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/activities.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/activities.html" />
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/coaches.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/coaches.html" />
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/pricing.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/pricing.html" />
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/contact.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/contact.html" />
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/events.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/events.html" />
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/gallery.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/gallery.html" />
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/locations.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/locations.html" />
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/404.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/404.html" />
+  </url>
+</urlset>

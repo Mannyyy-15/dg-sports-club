@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="/assets/images/tiles/square70x70logo.png"/>
+      <square150x150logo src="/assets/images/tiles/square150x150logo.png"/>
+      <square310x310logo src="/assets/images/tiles/square310x310logo.png"/>
+      <wide310x150logo src="/assets/images/tiles/wide310x150logo.png"/>
+      <TileColor>#00173d</TileColor>
+    </tile>
+    <notification>
+      <polling-uri src="https://www.dgsportsclub.com/api/notifications/poll"/>
+      <polling-interval-2>30</polling-interval-2>
+      <polling-uri-2 src="https://www.dgsportsclub.com/api/notifications/poll2"/>
+      <polling-interval-3>60</polling-interval-3>
+      <polling-uri-3 src="https://www.dgsportsclub.com/api/notifications/poll3"/>
+    </notification>
+  </msapplication>
+</browserconfig>

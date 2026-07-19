@@ -1,0 +1,16 @@
+# Security.txt for D.G. Sports Club
+# https://securitytxt.org/
+# Last Updated: 2026-07-19
+
+Contact: mailto:security@dgsportsclub.com
+Contact: tel:+91-9876543210
+Encryption: https://www.dgsportsclub.com/pgp-key.asc
+Acknowledgments: https://www.dgsportsclub.com/security/hall-of-fame
+Policy: https://www.dgsportsclub.com/security/policy
+Hiring: https://www.dgsportsclub.com/careers/security
+
+Preferred-Languages: en, hi, mr
+Canonical: https://www.dgsportsclub.com/.well-known/security.txt
+
+# Expires after 1 year
+Expires: 2027-07-19T00:00:00.000Z

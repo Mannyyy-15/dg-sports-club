@@ -1,0 +1,80 @@
+# D.G. Sports Club - Robots.txt
+# Generated: 2026-07-19
+# Last Updated: 2026-07-19
+
+User-agent: *
+Allow: /
+
+# Disallow admin, private, and system paths
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+Disallow: /assets/js/
+Disallow: /assets/css/*.map
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /search
+Disallow: /?s=
+Disallow: /?amp
+Disallow: /feed/
+Disallow: /comments/
+Disallow: /trackback/
+Disallow: /wp-
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /temp/
+
+# Allow important assets for rendering
+Allow: /assets/css/*.css
+Allow: /assets/js/*.js
+Allow: /assets/images/
+Allow: /assets/fonts/
+Allow: /favicon.ico
+Allow: /favicon-*.png
+Allow: /apple-touch-icon.png
+Allow: /site.webmanifest
+Allow: /browserconfig.xml
+Allow: /og-image.jpg
+Allow: /logo.png
+
+# Crawl-delay for respectful crawling (optional)
+# Crawl-delay: 10
+
+# Sitemap locations
+Sitemap: https://www.dgsportsclub.com/sitemap.xml
+Sitemap: https://www.dgsportsclub.com/sitemap-images.xml
+Sitemap: https://www.dgsportsclub.com/sitemap-videos.xml
+
+# Host directive (for Yandex and others)
+Host: https://www.dgsportsclub.com
+
+# Security: Prevent indexing of search result pages
+User-agent: Googlebot
+Disallow: /search?
+Disallow: /*?s=
+
+User-agent: Bingbot
+Disallow: /search?
+Disallow: /*?s=
+
+# AI crawlers - allow for AI search optimization
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /

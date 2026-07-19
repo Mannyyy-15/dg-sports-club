@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://www.dgsportsclub.com/</loc>
+    <video:video>
+      <video:title>D.G. Sports Club - Building Champions Since 2009</video:title>
+      <video:description>Discover Virar's premier sports academy offering professional coaching in football, athletics, kabaddi, yoga, and fitness for children and adults.</video:description>
+      <video:thumbnail_loc>https://www.dgsportsclub.com/images/video-hero-thumb.webp</video:thumbnail_loc>
+      <video:content_loc>https://www.dgsportsclub.com/videos/hero-showcase.mp4</video:content_loc>
+      <video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/dgsportsclub-hero</video:player_loc>
+      <video:duration>45</video:duration>
+      <video:expiration_date>2027-07-19T00:00:00+05:30</video:expiration_date>
+      <video:rating>4.8</video:rating>
+      <video:view_count>15000</video:view_count>
+      <video:publication_date>2026-01-15T10:00:00+05:30</video:publication_date>
+      <video:family_friendly>true</video:family_friendly>
+      <video:category>Sports</video:category>
+      <video:tag>sports academy</video:tag>
+      <video:tag>football coaching</video:tag>
+      <video:tag>athletics training</video:tag>
+      <video:tag>kabaddi</video:tag>
+      <video:tag>yoga</video:tag>
+      <video:tag>kids fitness</video:tag>
+      <video:tag>Virar Maharashtra</video:tag>
+      <video:tag>D.G. Sports Club</video:tag>
+      <video:uploader info="https://www.dgsportsclub.com/about.html">D.G. Sports Club</video:uploader>
+      <video:platform relationship="allow">web mobile tv</video:platform>
+      <video:requires_subscription>false</video:requires_subscription>
+      <video:price type="free" currency="INR">0</video:price>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/activities.html</loc>
+    <video:video>
+      <video:title>Football Academy Training - Technical Mastery</video:title>
+      <video:description>Watch our football coaching methodology focusing on ball mastery, tactical intelligence, and physical conditioning.</video:description>
+      <video:thumbnail_loc>https://www.dgsportsclub.com/images/video-football-thumb.webp</video:thumbnail_loc>
+      <video:content_loc>https://www.dgsportsclub.com/videos/football-academy.mp4</video:content_loc>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/dgsportsclub-football</video:player_loc>
+      <video:duration>120</video:duration>
+      <video:rating>4.9</video:rating>
+      <video:view_count>8500</video:view_count>
+      <video:publication_date>2026-03-10T10:00:00+05:30</video:publication_date>
+      <video:family_friendly>true</video:family_friendly>
+      <video:category>Sports</video:category>
+      <video:tag>football training</video:tag>
+      <video:tag>ball mastery</video:tag>
+      <video:tag>tactical coaching</video:tag>
+      <video:tag>kids football</video:tag>
+    </video:video>
+    <video:video>
+      <video:title>Athletics Program - Speed & Power Development</video:title>
+      <video:description>Track and field training with national-level coaches focusing on explosive power and endurance.</video:description>
+      <video:thumbnail_loc>https://www.dgsportsclub.com/images/video-athletics-thumb.webp</video:thumbnail_loc>
+      <video:content_loc>https://www.dgsportsclub.com/videos/athletics-program.mp4</video:content_loc>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/dgsportsclub-athletics</video:player_loc>
+      <video:duration>95</video:duration>
+      <video:rating>4.8</video:rating>
+      <video:view_count>6200</video:view_count>
+      <video:publication_date>2026-02-20T10:00:00+05:30</video:publication_date>
+      <video:family_friendly>true</video:family_friendly>
+      <video:category>Sports</video:category>
+      <video:tag>athletics training</video:tag>
+      <video:tag>sprint coaching</video:tag>
+      <video:tag>track and field</video:tag>
+      <video:tag>endurance training</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/events.html</loc>
+    <video:video>
+      <video:title>Elite Summer Multisport Camp 2024 Highlights</video:title>
+      <video:description>6-week intensive development program across football, cricket, and tennis. Technical mastery, mental conditioning, and team dynamics.</video:description>
+      <video:thumbnail_loc>https://www.dgsportsclub.com/images/video-summer-camp-thumb.webp</video:thumbnail_loc>
+      <video:content_loc>https://www.dgsportsclub.com/videos/summer-camp-2024.mp4</video:content_loc>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/dgsportsclub-summer-camp</video:player_loc>
+      <video:duration>180</video:duration>
+      <video:rating>4.9</video:rating>
+      <video:view_count>12000</video:view_count>
+      <video:publication_date>2024-06-15T10:00:00+05:30</video:publication_date>
+      <video:expiration_date>2026-12-31T23:59:59+05:30</video:expiration_date>
+      <video:family_friendly>true</video:family_friendly>
+      <video:category>Sports</video:category>
+      <video:tag>summer camp</video:tag>
+      <video:tag>multisport</video:tag>
+      <video:tag>kids sports camp</video:tag>
+      <video:tag>Virar summer camp</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.dgsportsclub.com/coaches.html</loc>
+    <video:video>
+      <video:title>Meet Coach Vikram Rathore - Football Head Coach</video:title>
+      <video:description>15+ years coaching experience. Led Maharashtra State U-19 to National Championship 2022.</video:description>
+      <video:thumbnail_loc>https://www.dgsportsclub.com/images/video-coach-vikram-thumb.webp</video:thumbnail_loc>
+      <video:content_loc>https://www.dgsportsclub.com/videos/coach-vikram-profile.mp4</video:content_loc>
+      <video:player_loc allow_embed="yes">https://www.youtube.com/embed/dgsportsclub-coach-vikram</video:player_loc>
+      <video:duration>180</video:duration>
+      <video:rating>5.0</video:rating>
+      <video:view_count>4500</video:view_count>
+      <video:publication_date>2026-01-20T10:00:00+05:30</video:publication_date>
+      <video:family_friendly>true</video:family_friendly>
+      <video:category>Sports</video:category>
+      <video:tag>coach profile</video:tag>
+      <video:tag>football coach</video:tag>
+      <video:tag>certified trainer</video:tag>
+    </video:video>
+  </url>
+</urlset>
