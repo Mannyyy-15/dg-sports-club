@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
-    <loc>https://www.dgsportsclub.com/</loc>
+    <loc>https://dg-sports-club-five.vercel.app/</loc>
     <video:video>
       <video:title>D.G. Sports Club - Building Champions Since 2009</video:title>
       <video:description>Discover Virar's premier sports academy offering professional coaching in football, athletics, kabaddi, yoga, and fitness for children and adults.</video:description>
-      <video:thumbnail_loc>https://www.dgsportsclub.com/images/video-hero-thumb.webp</video:thumbnail_loc>
-      <video:content_loc>https://www.dgsportsclub.com/videos/hero-showcase.mp4</video:content_loc>
+      <video:thumbnail_loc>https://dg-sports-club-five.vercel.app/images/video-hero-thumb.webp</video:thumbnail_loc>
+      <video:content_loc>https://dg-sports-club-five.vercel.app/videos/hero-showcase.mp4</video:content_loc>
       <video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/dgsportsclub-hero</video:player_loc>
       <video:duration>45</video:duration>
       <video:expiration_date>2027-07-19T00:00:00+05:30</video:expiration_date>
@@ -24,19 +24,19 @@
       <video:tag>kids fitness</video:tag>
       <video:tag>Virar Maharashtra</video:tag>
       <video:tag>D.G. Sports Club</video:tag>
-      <video:uploader info="https://www.dgsportsclub.com/about.html">D.G. Sports Club</video:uploader>
+      <video:uploader info="https://dg-sports-club-five.vercel.app/about.html">D.G. Sports Club</video:uploader>
       <video:platform relationship="allow">web mobile tv</video:platform>
       <video:requires_subscription>false</video:requires_subscription>
       <video:price type="free" currency="INR">0</video:price>
     </video:video>
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/activities.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/activities.html</loc>
     <video:video>
       <video:title>Football Academy Training - Technical Mastery</video:title>
       <video:description>Watch our football coaching methodology focusing on ball mastery, tactical intelligence, and physical conditioning.</video:description>
-      <video:thumbnail_loc>https://www.dgsportsclub.com/images/video-football-thumb.webp</video:thumbnail_loc>
-      <video:content_loc>https://www.dgsportsclub.com/videos/football-academy.mp4</video:content_loc>
+      <video:thumbnail_loc>https://dg-sports-club-five.vercel.app/images/video-football-thumb.webp</video:thumbnail_loc>
+      <video:content_loc>https://dg-sports-club-five.vercel.app/videos/football-academy.mp4</video:content_loc>
       <video:player_loc allow_embed="yes">https://www.youtube.com/embed/dgsportsclub-football</video:player_loc>
       <video:duration>120</video:duration>
       <video:rating>4.9</video:rating>
@@ -52,8 +52,8 @@
     <video:video>
       <video:title>Athletics Program - Speed & Power Development</video:title>
       <video:description>Track and field training with national-level coaches focusing on explosive power and endurance.</video:description>
-      <video:thumbnail_loc>https://www.dgsportsclub.com/images/video-athletics-thumb.webp</video:thumbnail_loc>
-      <video:content_loc>https://www.dgsportsclub.com/videos/athletics-program.mp4</video:content_loc>
+      <video:thumbnail_loc>https://dg-sports-club-five.vercel.app/images/video-athletics-thumb.webp</video:thumbnail_loc>
+      <video:content_loc>https://dg-sports-club-five.vercel.app/videos/athletics-program.mp4</video:content_loc>
       <video:player_loc allow_embed="yes">https://www.youtube.com/embed/dgsportsclub-athletics</video:player_loc>
       <video:duration>95</video:duration>
       <video:rating>4.8</video:rating>
@@ -68,12 +68,12 @@
     </video:video>
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/events.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/events.html</loc>
     <video:video>
       <video:title>Elite Summer Multisport Camp 2024 Highlights</video:title>
       <video:description>6-week intensive development program across football, cricket, and tennis. Technical mastery, mental conditioning, and team dynamics.</video:description>
-      <video:thumbnail_loc>https://www.dgsportsclub.com/images/video-summer-camp-thumb.webp</video:thumbnail_loc>
-      <video:content_loc>https://www.dgsportsclub.com/videos/summer-camp-2024.mp4</video:content_loc>
+      <video:thumbnail_loc>https://dg-sports-club-five.vercel.app/images/video-summer-camp-thumb.webp</video:thumbnail_loc>
+      <video:content_loc>https://dg-sports-club-five.vercel.app/videos/summer-camp-2024.mp4</video:content_loc>
       <video:player_loc allow_embed="yes">https://www.youtube.com/embed/dgsportsclub-summer-camp</video:player_loc>
       <video:duration>180</video:duration>
       <video:rating>4.9</video:rating>
@@ -89,12 +89,12 @@
     </video:video>
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/coaches.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/coaches.html</loc>
     <video:video>
       <video:title>Meet Coach Vikram Rathore - Football Head Coach</video:title>
       <video:description>15+ years coaching experience. Led Maharashtra State U-19 to National Championship 2022.</video:description>
-      <video:thumbnail_loc>https://www.dgsportsclub.com/images/video-coach-vikram-thumb.webp</video:thumbnail_loc>
-      <video:content_loc>https://www.dgsportsclub.com/videos/coach-vikram-profile.mp4</video:content_loc>
+      <video:thumbnail_loc>https://dg-sports-club-five.vercel.app/images/video-coach-vikram-thumb.webp</video:thumbnail_loc>
+      <video:content_loc>https://dg-sports-club-five.vercel.app/videos/coach-vikram-profile.mp4</video:content_loc>
       <video:player_loc allow_embed="yes">https://www.youtube.com/embed/dgsportsclub-coach-vikram</video:player_loc>
       <video:duration>180</video:duration>
       <video:rating>5.0</video:rating>

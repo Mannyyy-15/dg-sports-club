@@ -9,11 +9,11 @@
       <TileColor>#00173d</TileColor>
     </tile>
     <notification>
-      <polling-uri src="https://www.dgsportsclub.com/api/notifications/poll"/>
+      <polling-uri src="https://dg-sports-club-five.vercel.app/api/notifications/poll"/>
       <polling-interval-2>30</polling-interval-2>
-      <polling-uri-2 src="https://www.dgsportsclub.com/api/notifications/poll2"/>
+      <polling-uri-2 src="https://dg-sports-club-five.vercel.app/api/notifications/poll2"/>
       <polling-interval-3>60</polling-interval-3>
-      <polling-uri-3 src="https://www.dgsportsclub.com/api/notifications/poll3"/>
+      <polling-uri-3 src="https://dg-sports-club-five.vercel.app/api/notifications/poll3"/>
     </notification>
   </msapplication>
 </browserconfig>

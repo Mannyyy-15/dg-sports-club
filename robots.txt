@@ -41,12 +41,12 @@ Allow: /logo.png
 # Crawl-delay: 10
 
 # Sitemap locations
-Sitemap: https://www.dgsportsclub.com/sitemap.xml
-Sitemap: https://www.dgsportsclub.com/sitemap-images.xml
-Sitemap: https://www.dgsportsclub.com/sitemap-videos.xml
+Sitemap: https://dg-sports-club-five.vercel.app/sitemap.xml
+Sitemap: https://dg-sports-club-five.vercel.app/sitemap-images.xml
+Sitemap: https://dg-sports-club-five.vercel.app/sitemap-videos.xml
 
 # Host directive (for Yandex and others)
-Host: https://www.dgsportsclub.com
+Host: https://dg-sports-club-five.vercel.app
 
 # Security: Prevent indexing of search result pages
 User-agent: Googlebot

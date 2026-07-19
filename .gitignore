@@ -30,8 +30,5 @@ npm-debug.log*
 # Tailwind cache
 .tailwindcss-cache/
 
-# Compiled CSS (generated from source)
-assets/css/style.css
-
 # AI agent skill configs
 .agents/

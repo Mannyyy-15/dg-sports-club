@@ -3,74 +3,74 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://www.dgsportsclub.com/</loc>
+    <loc>https://dg-sports-club-five.vercel.app/</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dgsportsclub.com/" />
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dg-sports-club-five.vercel.app/" />
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/about.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/about.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/about.html" />
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/about.html" />
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/activities.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/activities.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/activities.html" />
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/activities.html" />
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/coaches.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/coaches.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/coaches.html" />
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/coaches.html" />
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/pricing.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/pricing.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/pricing.html" />
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/contact.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/contact.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/contact.html" />
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/contact.html" />
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/events.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/events.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/events.html" />
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/events.html" />
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/gallery.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/gallery.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/gallery.html" />
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/gallery.html" />
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/locations.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/locations.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/locations.html" />
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/locations.html" />
   </url>
   <url>
-    <loc>https://www.dgsportsclub.com/404.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/404.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.dgsportsclub.com/404.html" />
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/404.html" />
   </url>
 </urlset>

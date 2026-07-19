@@ -2,213 +2,213 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://www.dgsportsclub.com/</loc>
+    <loc>https://dg-sports-club-five.vercel.app/</loc>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/og-image.jpg</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/og-image.jpg</image:loc>
       <image:title>D.G. Sports Club Hero Image</image:title>
       <image:caption>Premier Sports Academy in Virar, Maharashtra</image:caption>
       <image:geo_location>Virar, Maharashtra, India</image:geo_location>
-      <image:license>https://www.dgsportsclub.com/license.html</image:license>
+      <image:license>https://dg-sports-club-five.vercel.app/license.html</image:license>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/hero-football.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/hero-football.webp</image:loc>
       <image:title>Football Training at D.G. Sports Club</image:title>
       <image:caption>Young athletes practicing football drills</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/hero-athletics.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/hero-athletics.webp</image:loc>
       <image:title>Athletics Training at D.G. Sports Club</image:title>
       <image:caption>Sprint training on professional track</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/hero-coaching.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/hero-coaching.webp</image:loc>
       <image:title>Expert Coaching Session</image:title>
       <image:caption>Coach mentoring young athletes</image:caption>
     </image:image>
   </url>
 
   <url>
-    <loc>https://www.dgsportsclub.com/about.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/about.html</loc>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/about-hero.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/about-hero.webp</image:loc>
       <image:title>D.G. Sports Club Heritage</image:title>
       <image:caption>From humble beginnings to premier academy</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/facility-stadium.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/facility-stadium.webp</image:loc>
       <image:title>Main Stadium Complex</image:title>
       <image:caption>State-of-the-art sports facility in Virar</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/facility-indoor.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/facility-indoor.webp</image:loc>
       <image:title>Indoor Training Facility</image:title>
       <image:caption>Climate-controlled training environment</image:caption>
     </image:image>
   </url>
 
   <url>
-    <loc>https://www.dgsportsclub.com/activities.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/activities.html</loc>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/activities-hero.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/activities-hero.webp</image:loc>
       <image:title>Sports Programs Overview</image:title>
       <image:caption>Multi-sport training programs for all ages</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/activity-football.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/activity-football.webp</image:loc>
       <image:title>Football Academy Training</image:title>
       <image:caption>Technical ball mastery and tactical training</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/activity-athletics.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/activity-athletics.webp</image:loc>
       <image:title>Track & Field Athletics</image:title>
       <image:caption>Speed development and endurance training</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/activity-kabaddi.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/activity-kabaddi.webp</image:loc>
       <image:title>Kabaddi Coaching</image:title>
       <image:caption>Traditional and competitive kabaddi training</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/activity-yoga.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/activity-yoga.webp</image:loc>
       <image:title>Yoga & Mobility Sessions</image:title>
       <image:caption>Flexibility, breathing and mental resilience</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/activity-fitness.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/activity-fitness.webp</image:loc>
       <image:title>Strength & Conditioning</image:title>
       <image:caption>Scientific physical preparation programs</image:caption>
     </image:image>
   </url>
 
   <url>
-    <loc>https://www.dgsportsclub.com/coaches.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/coaches.html</loc>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/coach-vikram.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/coach-vikram.webp</image:loc>
       <image:title>Coach Vikram Rathore - Football Head Coach</image:title>
       <image:caption>15+ years experience, State U-19 National Champion 2022</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/coach-ananya.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/coach-ananya.webp</image:loc>
       <image:title>Coach Ananya Sharma - Elite Tennis Mentor</image:title>
       <image:caption>Former ITF Pro Circuit Finalist & Certified Level-3 Coach</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/coach-marcus.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/coach-marcus.webp</image:loc>
       <image:title>Coach Marcus D'Souza - Strength & Conditioning</image:title>
       <image:caption>12+ years, Developed protocols for National Swimming Squad</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/coaching-philosophy.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/coaching-philosophy.webp</image:loc>
       <image:title>Coaching Philosophy - Heart & Science</image:title>
       <image:caption>Biometric tracking and psychological resilience</image:caption>
     </image:image>
   </url>
 
   <url>
-    <loc>https://www.dgsportsclub.com/pricing.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/pricing.html</loc>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/pricing-hero.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/pricing-hero.webp</image:loc>
       <image:title>Membership Plans</image:title>
       <image:caption>Starter, Pro, and Elite tiers available</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/plan-comparison.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/plan-comparison.webp</image:loc>
       <image:title>Plan Feature Comparison</image:title>
       <image:caption>Detailed breakdown of all membership benefits</image:caption>
     </image:image>
   </url>
 
   <url>
-    <loc>https://www.dgsportsclub.com/contact.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/contact.html</loc>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/contact-hero.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/contact-hero.webp</image:loc>
       <image:title>Visit D.G. Sports Club</image:title>
       <image:caption>Main Stadium Complex, Virar West, Maharashtra 401303</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/map-location.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/map-location.webp</image:loc>
       <image:title>Location Map - D.G. Sports Club</image:title>
       <image:caption>Find us on Google Maps</image:caption>
     </image:image>
   </url>
 
   <url>
-    <loc>https://www.dgsportsclub.com/events.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/events.html</loc>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/event-summer-camp.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/event-summer-camp.webp</image:loc>
       <image:title>Elite Summer Multisport Camp</image:title>
       <image:caption>6-week intensive development program</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/event-football-league.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/event-football-league.webp</image:loc>
       <image:title>Inter-Club Football League</image:title>
       <image:caption>Virar's premier youth football competition</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/event-sports-day.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/event-sports-day.webp</image:loc>
       <image:title>Annual Sports Day 2023</image:title>
       <image:caption>500+ participants across 12 disciplines</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/event-coaches-workshop.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/event-coaches-workshop.webp</image:loc>
       <image:title>Coaches Excellence Workshop</image:title>
       <image:caption>FIFA & ICC certified trainer seminar</image:caption>
     </image:image>
   </url>
 
   <url>
-    <loc>https://www.dgsportsclub.com/gallery.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/gallery.html</loc>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/gallery-training-1.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/gallery-training-1.webp</image:loc>
       <image:title>Morning Drill Session</image:title>
       <image:caption>High-intensity interval training</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/gallery-competition-1.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/gallery-competition-1.webp</image:loc>
       <image:title>Regional Qualifiers 2024</image:title>
       <image:caption>Competitive match under stadium lights</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/gallery-awards-1.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/gallery-awards-1.webp</image:loc>
       <image:title>Annual Excellence Gala</image:title>
       <image:caption>Athletes receiving gold trophies</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/gallery-training-2.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/gallery-training-2.webp</image:loc>
       <image:title>Junior Tennis Masterclass</image:title>
       <image:caption>Coach demonstrating serve technique</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/gallery-competition-2.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/gallery-competition-2.webp</image:loc>
       <image:title>State Championship Finals</image:title>
       <image:caption>Basketball action on hardwood</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/gallery-training-3.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/gallery-training-3.webp</image:loc>
       <image:title>Aquatic Endurance Training</image:title>
       <image:caption>Swimming program in Olympic-size pool</image:caption>
     </image:image>
   </url>
 
   <url>
-    <loc>https://www.dgsportsclub.com/locations.html</loc>
+    <loc>https://dg-sports-club-five.vercel.app/locations.html</loc>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/location-st-peters.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/location-st-peters.webp</image:loc>
       <image:title>St. Peter's Academy Center</image:title>
       <image:caption>Primary competitive training hub with Olympic track</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/location-nana-nani.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/location-nana-nani.webp</image:loc>
       <image:title>Nana Nani Park Center</image:title>
       <image:caption>Morning specialized athletics & functional fitness</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/location-map-st-peters.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/location-map-st-peters.webp</image:loc>
       <image:title>St. Peter's Location Map</image:title>
       <image:caption>Manvelpada, Virar East, 401305</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.dgsportsclub.com/images/location-map-nana-nani.webp</image:loc>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/location-map-nana-nani.webp</image:loc>
       <image:title>Nana Nani Park Location Map</image:title>
       <image:caption>Near Mohid Heights, Virar East, 401305</image:caption>
     </image:image>
