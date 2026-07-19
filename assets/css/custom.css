@@ -213,15 +213,14 @@ body {
    Navigation & Header
    ========================================================================== */
 .glass-nav {
-  background: rgba(255, 255, 255, 0.75);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
-  border-bottom: 1px solid rgba(0, 23, 61, 0.05);
+  background: #ffffff;
+  border-bottom: 1px solid rgba(0, 23, 61, 0.08);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
 }
 
 .glass-nav-scrolled {
-  background: rgba(255, 255, 255, 0.95);
-  box-shadow: var(--shadow-soft);
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
 /* Nav Link Underline Animation */
