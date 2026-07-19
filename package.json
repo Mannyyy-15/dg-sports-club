@@ -34,7 +34,7 @@
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10.4.17",
-    "cleancss": "^5.3.3",
+    "clean-css": "^5.3.3",
     "concurrently": "^8.2.2",
     "css-stats": "^2.1.0",
     "eslint": "^8.56.0",
