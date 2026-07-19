@@ -172,7 +172,7 @@
 <!-- Sports Icon Replacement / Illustration Placeholder -->
 <div class="w-64 h-64 bg-white rounded-xl shadow-xl flex items-center justify-center overflow-hidden border border-surface-variant relative">
 <div class="absolute inset-0 opacity-10">
-<div class="w-full h-full bg-cover bg-center" data-alt="A minimalist, stylized digital illustration of a soccer pitch corner flag and sideline. A high-contrast white football sits just outside the thick white boundary line on lush green grass. The lighting is bright and professional, mimicking a high-end sports broadcast aesthetic with clean lines and deep blue and golden accents consistent with a premium athletic brand." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuBnv-DovYglp5rE8n2Wo9R3E8UUoIs3eiBSe_tqmXGH4eVi23Fu3qlqyFGJcy4Y_all97fpet8RVB3AFpYEqMeWvWf9sT2ONPGFXfsWraSXd1LHEUHeWgfZNphy-K0bPXZhwO3k2xYiry7e812BZCcOOStET30y_aNrMt_EQssBfHpjXj56ye6B8yuoMrAy1GVIi8HXr70DTRGHjjvHW7eahflfXgDYHKmZOt1Aw0zJFa9Z9nB5OAwjUw')"></div>
+<div class="w-full h-full bg-cover bg-center" alt="A minimalist, stylized digital illustration of a soccer pitch corner flag and sideline. A high-contrast white football sits just outside the thick white boundary line on lush green grass. The lighting is bright and professional, mimicking a high-end sports broadcast aesthetic with clean lines and deep blue and golden accents consistent with a premium athletic brand." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuBnv-DovYglp5rE8n2Wo9R3E8UUoIs3eiBSe_tqmXGH4eVi23Fu3qlqyFGJcy4Y_all97fpet8RVB3AFpYEqMeWvWf9sT2ONPGFXfsWraSXd1LHEUHeWgfZNphy-K0bPXZhwO3k2xYiry7e812BZCcOOStET30y_aNrMt_EQssBfHpjXj56ye6B8yuoMrAy1GVIi8HXr70DTRGHjjvHW7eahflfXgDYHKmZOt1Aw0zJFa9Z9nB5OAwjUw')"></div>
 </div>
 <div class="flex flex-col items-center">
 <span class="material-symbols-outlined text-primary text-[120px] opacity-20 select-none">sports_soccer</span>
@@ -216,7 +216,7 @@
 </div>
 <div class="flex items-center gap-xs">
 <span class="material-symbols-outlined text-primary text-sm">history</span>
-<span class="text-label-md">Est. 2009</span>
+<span class="text-label-md">Est. 2022</span>
 </div>
 </div>
 </div>
@@ -255,10 +255,10 @@
             <div>
                 <h4 class="font-display font-black text-white uppercase text-xs tracking-widest mb-6">Activities</h4>
                 <ul class="space-y-4 text-white/60 text-sm font-medium">
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Football Mastery</a></li>
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Athletics (Sprints)</a></li>
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Yoga &amp; Mobility</a></li>
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Strength &amp; Conditioning</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="football.html">Football Mastery</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="athletics.html">Athletics (Sprints)</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="yoga.html">Yoga &amp; Mobility</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="fitness.html">Strength &amp; Conditioning</a></li>
                     <li><a class="hover:text-accent transition-colors" href="activities.html">Kids Multi-Sport</a></li>
                 </ul>
             </div>
@@ -370,4 +370,41 @@
         });
     </script>
 <script src="assets/js/translations.js"></script>
+
+<!-- Enroll Popup Banner -->
+<div id="enroll-popup" class="fixed inset-0 z-[9999] flex items-center justify-center p-4" style="display:none;">
+  <div class="absolute inset-0 bg-black/60 backdrop-blur-sm" onclick="closePopup()"></div>
+  <div class="relative bg-white rounded-2xl shadow-2xl max-w-lg w-full overflow-hidden animate-bounce-in">
+    <div class="bg-gradient-to-r from-primary to-secondary p-6 text-center">
+      <span class="text-5xl block mb-2"> athlete </span>
+      <h2 class="text-white font-headline-md text-headline-md mb-1">Your Kid is Still on the Couch?</h2>
+      <p class="text-white/80 text-sm">Meanwhile, kids at DG Sports Club are winning trophies.</p>
+    </div>
+    <div class="p-6 text-center">
+      <p class="text-on-surface-variant mb-1 text-sm">Starting at just <strong class="text-primary text-lg">?500/month</strong></p>
+      <p class="text-on-surface-variant mb-6 text-xs">Athletics &bull; Football &bull; Kabaddi &bull; Fitness</p>
+      <a href="contact.html" class="inline-block bg-accent text-primary px-8 py-3 rounded-full font-bold hover:scale-105 transition-all w-full text-center mb-3">Enroll Your Child Now</a>
+      <button onclick="closePopup()" class="text-on-surface-variant text-xs hover:text-primary transition-colors cursor-pointer">No thanks, I'll think about it</button>
+    </div>
+  </div>
+</div>
+<script>
+function closePopup() {
+  document.getElementById('enroll-popup').style.display = 'none';
+  localStorage.setItem('dg_popup_closed', '1');
+}
+setTimeout(function() {
+  if (!localStorage.getItem('dg_popup_closed')) {
+    document.getElementById('enroll-popup').style.display = 'flex';
+  }
+}, 5000);
+</script>
+<style>
+@keyframes bounce-in {
+  0% { transform: scale(0.8); opacity: 0; }
+  60% { transform: scale(1.05); opacity: 1; }
+  100% { transform: scale(1); }
+}
+.animate-bounce-in { animation: bounce-in 0.5s ease-out; }
+</style>
 </body></html>

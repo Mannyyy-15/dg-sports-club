@@ -196,16 +196,16 @@
 <span class="px-3 py-1 bg-surface-variant text-on-surface-variant rounded-full text-xs font-semibold">Olympic Track</span>
 <span class="px-3 py-1 bg-surface-variant text-on-surface-variant rounded-full text-xs font-semibold">Indoor Courts</span>
 <span class="px-3 py-1 bg-surface-variant text-on-surface-variant rounded-full text-xs font-semibold">Changing Rooms</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="grid grid-cols-2 gap-sm">
-<a class="flex items-center justify-center gap-2 bg-primary text-white py-3 rounded-lg font-bold hover:bg-primary-container transition-all" href="#">
-<span class="material-symbols-outlined text-sm">directions</span>
-                            Get Directions
-                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="grid grid-cols-2 gap-sm">
+        <a class="flex items-center justify-center gap-2 bg-primary text-white py-3 rounded-lg font-bold hover:bg-primary-container transition-all" href="https://www.google.com/maps/search/St+Peter+High+School+Manvelpada+Road+Virar+East+401305" target="_blank" rel="noopener noreferrer">
+            <span class="material-symbols-outlined text-sm">directions</span>
+            Get Directions
+        </a>
 <a class="flex items-center justify-center gap-2 border-2 border-primary text-primary py-3 rounded-lg font-bold hover:bg-primary/5 transition-all" href="https://wa.me/918286132342">
 <span class="material-symbols-outlined text-sm">chat</span>
                             WhatsApp
@@ -256,16 +256,16 @@
 <span class="px-3 py-1 bg-surface-variant text-on-surface-variant rounded-full text-xs font-semibold">Open Ground</span>
 <span class="px-3 py-1 bg-surface-variant text-on-surface-variant rounded-full text-xs font-semibold">Walking Track</span>
 <span class="px-3 py-1 bg-surface-variant text-on-surface-variant rounded-full text-xs font-semibold">Hydration Station</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="grid grid-cols-2 gap-sm">
-<a class="flex items-center justify-center gap-2 bg-primary text-white py-3 rounded-lg font-bold hover:bg-primary-container transition-all" href="#">
-<span class="material-symbols-outlined text-sm">directions</span>
-                            Get Directions
-                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="grid grid-cols-2 gap-sm">
+        <a class="flex items-center justify-center gap-2 bg-primary text-white py-3 rounded-lg font-bold hover:bg-primary-container transition-all" href="https://www.google.com/maps/search/St+Peter+and+Paul+High+School+Nana+Nani+Park+Virar+East+401305" target="_blank" rel="noopener noreferrer">
+            <span class="material-symbols-outlined text-sm">directions</span>
+            Get Directions
+        </a>
 <a class="flex items-center justify-center gap-2 border-2 border-primary text-primary py-3 rounded-lg font-bold hover:bg-primary/5 transition-all" href="https://wa.me/918286132342">
 <span class="material-symbols-outlined text-sm">chat</span>
                             WhatsApp
@@ -332,10 +332,10 @@
             <div>
                 <h4 class="font-display font-black text-white uppercase text-xs tracking-widest mb-6">Activities</h4>
                 <ul class="space-y-4 text-white/60 text-sm font-medium">
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Football Mastery</a></li>
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Athletics (Sprints)</a></li>
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Yoga &amp; Mobility</a></li>
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Strength &amp; Conditioning</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="football.html">Football Mastery</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="athletics.html">Athletics (Sprints)</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="yoga.html">Yoga &amp; Mobility</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="fitness.html">Strength &amp; Conditioning</a></li>
                     <li><a class="hover:text-accent transition-colors" href="activities.html">Kids Multi-Sport</a></li>
                 </ul>
             </div>
@@ -432,4 +432,41 @@
         });
     </script>
 <script src="assets/js/translations.js"></script>
+
+<!-- Enroll Popup Banner -->
+<div id="enroll-popup" class="fixed inset-0 z-[9999] flex items-center justify-center p-4" style="display:none;">
+  <div class="absolute inset-0 bg-black/60 backdrop-blur-sm" onclick="closePopup()"></div>
+  <div class="relative bg-white rounded-2xl shadow-2xl max-w-lg w-full overflow-hidden animate-bounce-in">
+    <div class="bg-gradient-to-r from-primary to-secondary p-6 text-center">
+      <span class="text-5xl block mb-2"> athlete </span>
+      <h2 class="text-white font-headline-md text-headline-md mb-1">Your Kid is Still on the Couch?</h2>
+      <p class="text-white/80 text-sm">Meanwhile, kids at DG Sports Club are winning trophies.</p>
+    </div>
+    <div class="p-6 text-center">
+      <p class="text-on-surface-variant mb-1 text-sm">Starting at just <strong class="text-primary text-lg">?500/month</strong></p>
+      <p class="text-on-surface-variant mb-6 text-xs">Athletics &bull; Football &bull; Kabaddi &bull; Fitness</p>
+      <a href="contact.html" class="inline-block bg-accent text-primary px-8 py-3 rounded-full font-bold hover:scale-105 transition-all w-full text-center mb-3">Enroll Your Child Now</a>
+      <button onclick="closePopup()" class="text-on-surface-variant text-xs hover:text-primary transition-colors cursor-pointer">No thanks, I'll think about it</button>
+    </div>
+  </div>
+</div>
+<script>
+function closePopup() {
+  document.getElementById('enroll-popup').style.display = 'none';
+  localStorage.setItem('dg_popup_closed', '1');
+}
+setTimeout(function() {
+  if (!localStorage.getItem('dg_popup_closed')) {
+    document.getElementById('enroll-popup').style.display = 'flex';
+  }
+}, 5000);
+</script>
+<style>
+@keyframes bounce-in {
+  0% { transform: scale(0.8); opacity: 0; }
+  60% { transform: scale(1.05); opacity: 1; }
+  100% { transform: scale(1); }
+}
+.animate-bounce-in { animation: bounce-in 0.5s ease-out; }
+</style>
 </body></html>

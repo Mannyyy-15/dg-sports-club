@@ -217,7 +217,7 @@
 </div>
 </a>
 <!-- WhatsApp -->
-<a class="flex items-center gap-4 bg-white p-4 rounded-xl shadow-sm border border-outline-variant/20 hover:border-secondary transition-all group" href="#">
+<a class="flex items-center gap-4 bg-white p-4 rounded-xl shadow-sm border border-outline-variant/20 hover:border-secondary transition-all group" href="https://wa.me/918286132342" target="_blank" rel="noopener noreferrer">
 <div class="w-12 h-12 rounded-full bg-[#25D366]/10 flex items-center justify-center text-[#25D366]">
 <span class="material-symbols-outlined">chat_bubble</span>
 </div>
@@ -239,7 +239,7 @@
 </div>
 <!-- Location Map Area -->
 <div class="relative overflow-hidden rounded-xl shadow-lg h-[320px] bg-surface-container-high border border-outline-variant/30">
-<div class="absolute inset-0 grayscale opacity-80" data-alt="A sophisticated map visualization showing the layout of Virar, Maharashtra, rendered in a minimalist light-mode style with deep blue accents for landmarks. The map feels clean and architectural, avoiding clutter, and highlights the prime location of the sports academy with a subtle golden pin. High-key lighting and a high-end tech-aesthetic define the visual feel." data-location="Virar, Maharashtra" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDFK5kzn8Ld3DiZOcsbvLA0SASHj4qwQUQBY1wdiIXMimRLd7DON-12KRAvQPTGjbK-EzcDDRb4Y5hmAcpG3KsmHY2jGGfU6JfkzWUB9HitrF0nCEQWRbDv6fUEt3B82hxaUyIdilNMTj4lC0_2uunxezeP43Y2cuxj-YzFWJnhiSz5hAeQNL1P98kdAVVI3zXUGavxVsg63-WGyP2CPf0Eb9rRkOToWTJuhYN7cHP220ZeEHj-JeThaw')"></div>
+<div class="absolute inset-0 grayscale opacity-80" alt="A sophisticated map visualization showing the layout of Virar, Maharashtra, rendered in a minimalist light-mode style with deep blue accents for landmarks. The map feels clean and architectural, avoiding clutter, and highlights the prime location of the sports academy with a subtle golden pin. High-key lighting and a high-end tech-aesthetic define the visual feel." data-location="Virar, Maharashtra" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDFK5kzn8Ld3DiZOcsbvLA0SASHj4qwQUQBY1wdiIXMimRLd7DON-12KRAvQPTGjbK-EzcDDRb4Y5hmAcpG3KsmHY2jGGfU6JfkzWUB9HitrF0nCEQWRbDv6fUEt3B82hxaUyIdilNMTj4lC0_2uunxezeP43Y2cuxj-YzFWJnhiSz5hAeQNL1P98kdAVVI3zXUGavxVsg63-WGyP2CPf0Eb9rRkOToWTJuhYN7cHP220ZeEHj-JeThaw')"></div>
 <div class="absolute bottom-4 left-4 right-4 bg-white/90 backdrop-blur-md p-4 rounded-lg shadow-md border border-white">
 <h3 class="font-headline-sm text-label-lg text-primary mb-1">D.G. Sports Club</h3>
 <p class="font-label-md text-on-surface-variant">Opp. Global City, Virar East, Maharashtra 401305</p>
@@ -249,9 +249,9 @@
 <div class="flex items-center justify-between p-4 bg-primary text-white rounded-xl">
 <span class="font-label-lg uppercase tracking-widest text-secondary-fixed">Follow Our Success</span>
 <div class="flex gap-4">
-<a class="hover:scale-110 transition-transform" href="#"><span class="material-symbols-outlined">photo_camera</span></a>
-<a class="hover:scale-110 transition-transform" href="#"><span class="material-symbols-outlined">face_nod</span></a>
-<a class="hover:scale-110 transition-transform" href="#"><span class="material-symbols-outlined">work</span></a>
+<a class="hover:scale-110 transition-transform" href="https://instagram.com/dgsportsclub" target="_blank" rel="noopener noreferrer"><span class="material-symbols-outlined">photo_camera</span></a>
+<a class="hover:scale-110 transition-transform" href="https://facebook.com/dgsportsclub" target="_blank" rel="noopener noreferrer"><span class="material-symbols-outlined">face_nod</span></a>
+<a class="hover:scale-110 transition-transform" href="https://youtube.com/@dgsportsclub" target="_blank" rel="noopener noreferrer"><span class="material-symbols-outlined">work</span></a>
 </div>
 </div>
 </div>
@@ -328,10 +328,10 @@
             <div>
                 <h4 class="font-display font-black text-white uppercase text-xs tracking-widest mb-6">Activities</h4>
                 <ul class="space-y-4 text-white/60 text-sm font-medium">
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Football Mastery</a></li>
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Athletics (Sprints)</a></li>
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Yoga &amp; Mobility</a></li>
-                    <li><a class="hover:text-accent transition-colors" href="activities.html">Strength &amp; Conditioning</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="football.html">Football Mastery</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="athletics.html">Athletics (Sprints)</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="yoga.html">Yoga &amp; Mobility</a></li>
+                    <li><a class="hover:text-accent transition-colors" href="fitness.html">Strength &amp; Conditioning</a></li>
                     <li><a class="hover:text-accent transition-colors" href="activities.html">Kids Multi-Sport</a></li>
                 </ul>
             </div>
@@ -463,4 +463,41 @@
         });
     </script>
 <script src="assets/js/translations.js"></script>
+
+<!-- Enroll Popup Banner -->
+<div id="enroll-popup" class="fixed inset-0 z-[9999] flex items-center justify-center p-4" style="display:none;">
+  <div class="absolute inset-0 bg-black/60 backdrop-blur-sm" onclick="closePopup()"></div>
+  <div class="relative bg-white rounded-2xl shadow-2xl max-w-lg w-full overflow-hidden animate-bounce-in">
+    <div class="bg-gradient-to-r from-primary to-secondary p-6 text-center">
+      <span class="text-5xl block mb-2"> athlete </span>
+      <h2 class="text-white font-headline-md text-headline-md mb-1">Your Kid is Still on the Couch?</h2>
+      <p class="text-white/80 text-sm">Meanwhile, kids at DG Sports Club are winning trophies.</p>
+    </div>
+    <div class="p-6 text-center">
+      <p class="text-on-surface-variant mb-1 text-sm">Starting at just <strong class="text-primary text-lg">?500/month</strong></p>
+      <p class="text-on-surface-variant mb-6 text-xs">Athletics &bull; Football &bull; Kabaddi &bull; Fitness</p>
+      <a href="contact.html" class="inline-block bg-accent text-primary px-8 py-3 rounded-full font-bold hover:scale-105 transition-all w-full text-center mb-3">Enroll Your Child Now</a>
+      <button onclick="closePopup()" class="text-on-surface-variant text-xs hover:text-primary transition-colors cursor-pointer">No thanks, I'll think about it</button>
+    </div>
+  </div>
+</div>
+<script>
+function closePopup() {
+  document.getElementById('enroll-popup').style.display = 'none';
+  localStorage.setItem('dg_popup_closed', '1');
+}
+setTimeout(function() {
+  if (!localStorage.getItem('dg_popup_closed')) {
+    document.getElementById('enroll-popup').style.display = 'flex';
+  }
+}, 5000);
+</script>
+<style>
+@keyframes bounce-in {
+  0% { transform: scale(0.8); opacity: 0; }
+  60% { transform: scale(1.05); opacity: 1; }
+  100% { transform: scale(1); }
+}
+.animate-bounce-in { animation: bounce-in 0.5s ease-out; }
+</style>
 </body></html>
