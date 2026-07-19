@@ -119,8 +119,8 @@
     <header class="fixed top-0 w-full z-50 glass-nav" role="banner">
         <nav class="flex justify-between items-center px-6 md:px-12 py-4 max-w-7xl mx-auto" role="navigation" aria-label="Primary navigation">
             <a href="index.html" class="flex items-center gap-3 group">
-                <img src="logo.png" alt="D.G. Sports Club Logo" class="h-12 md:h-14 w-auto group-hover:scale-105 transition-transform duration-300" width="56" height="56" loading="eager" decoding="async"/>
-                <span class="font-display text-xl font-bold tracking-tight text-primary">D.G. Sports</span>
+                <img src="logo.png" alt="DG Sports Club Logo" class="h-12 md:h-14 w-auto group-hover:scale-105 transition-transform duration-300" width="56" height="56" loading="eager" decoding="async"/>
+                <span class="font-display text-xl font-bold tracking-tight text-primary">DG Sports Club</span>
             </a>
             
             <div class="hidden md:flex gap-8 items-center">
@@ -136,7 +136,12 @@
                 <a href="tel:+918286132342" class="hidden lg:flex items-center gap-2 border border-primary/20 text-primary px-6 py-2.5 rounded-full font-display text-sm font-semibold hover:bg-primary hover:text-white transition-all btn-hover-effect">
                     <span class="material-symbols-outlined text-sm">call</span> Call Admissions
                 </a>
-                <a href="contact.html" class="bg-primary text-white px-8 py-2.5 rounded-full font-display text-sm font-bold hover:scale-105 hover:bg-accent hover:text-primary transition-all btn-hover-effect">Join Now</a>
+                <div class="flex items-center gap-1 bg-surface rounded-full p-1 border border-outline-variant/30">
+<button class="lang-btn bg-primary text-white px-2 py-1 rounded-full text-xs font-bold cursor-pointer transition-all" data-lang="en" onclick="setLanguage('en')">EN</button>
+<button class="lang-btn text-primary hover:bg-primary/10 px-2 py-1 rounded-full text-xs font-bold cursor-pointer transition-all" data-lang="hi" onclick="setLanguage('hi')">HI</button>
+<button class="lang-btn text-primary hover:bg-primary/10 px-2 py-1 rounded-full text-xs font-bold cursor-pointer transition-all" data-lang="mr" onclick="setLanguage('mr')">MR</button>
+</div>
+<a href="contact.html" class="bg-primary text-white px-8 py-2.5 rounded-full font-display text-sm font-bold hover:scale-105 hover:bg-accent hover:text-primary transition-all btn-hover-effect">Join Now</a>
                 <button id="mobile-menu-btn" class="md:hidden text-primary z-50 focus:outline-none" aria-label="Open navigation menu" aria-expanded="false" aria-controls="mobile-menu">
                     <span class="material-symbols-outlined" aria-hidden="true" style="font-size: 32px;">menu</span>
                 </button>
@@ -171,75 +176,78 @@
 <!-- Coach Card 1 -->
 <div class="coach-card group relative bg-white rounded-xl overflow-hidden soft-ambient-shadow border border-outline-variant/30 transition-all duration-500 hover:-translate-y-2">
 <div class="relative h-96 overflow-hidden">
-<img class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" data-alt="A professional studio headshot of a middle-aged male football coach with an intense, focused expression. He is wearing a dark navy athletic polo shirt with a subtle sports club crest. The lighting is high-contrast cinematic style, highlighting his features against a soft-focus athletic field background. The overall aesthetic is premium, clean, and authoritative." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCQv0CvHv0dAMqO-G5bC4KgQ9QB5uU5cKV1D9P4CJouFeVLp0r3Sq5s8M3BL5WA65-y88yd-NHv7GRMHiVR_cKSn6GEeVsHWmoa3eYZPkYKij0JaSNplKGrvocTYFu9cxIZ4kqB1NfSJnsfdqEVRVVyjqoAy1KK19bu5qNXF6FjfByX-I-86nfvYJztOQDverkQi3r8TLrbpsv6bqSdD1elMF_VpkmRua-dGgfYW5HtEKHwikkrZttzmw" decoding="async"/>
+<img class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCQv0CvHv0dAMqO-G5bC4KgQ9QB5uU5cKV1D9P4CJouFeVLp0r3Sq5s8M3BL5WA65-y88yd-NHv7GRMHiVR_cKSn6GEeVsHWmoa3eYZPkYKij0JaSNplKGrvocTYFu9cxIZ4kqB1NfSJnsfdqEVRVVyjqoAy1KK19bu5qNXF6FjfByX-I-86nfvYJztOQDverkQi3r8TLrbpsv6bqSdD1elMF_VpkmRua-dGgfYW5HtEKHwikkrZttzmw" alt="Dadasaheb Gaikwad - Head Coach at DG Sports Club" decoding="async"/>
 <div class="coach-overlay absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent opacity-0 transition-opacity duration-300 flex flex-col justify-end p-8">
 <div class="flex gap-4 mb-4">
-<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="#"><span class="material-symbols-outlined text-sm">share</span></a>
-<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="#"><span class="material-symbols-outlined text-sm">mail</span></a>
+<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="tel:+918286132342"><span class="material-symbols-outlined text-sm">call</span></a>
+<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="mailto:dgsportsclubvirar@gmail.com"><span class="material-symbols-outlined text-sm">mail</span></a>
 </div>
 </div>
 </div>
 <div class="p-8">
 <div class="flex justify-between items-start mb-2">
 <div>
-<h3 class="font-headline-sm text-headline-sm text-primary">Vikram Rathore</h3>
-<p class="text-secondary font-label-lg font-bold">Football Head Coach</p>
+<h3 class="font-headline-sm text-headline-sm text-primary">Dadasaheb Gaikwad</h3>
+<p class="text-secondary font-label-lg font-bold">Head Coach &amp; Founder</p>
 </div>
-<span class="bg-surface-container-high text-on-surface-variant px-3 py-1 rounded-full font-label-md">15+ Yrs Exp</span>
+<span class="bg-surface-container-high text-on-surface-variant px-3 py-1 rounded-full font-label-md">10+ Yrs Exp</span>
 </div>
+<p class="text-on-surface-variant text-sm mt-2">Athletics &bull; Fitness &bull; Strength &amp; Conditioning</p>
 <div class="mt-4 pt-4 border-t border-outline-variant/30">
-<p class="text-on-surface-variant font-label-md uppercase mb-1">Key Achievement</p>
-<p class="text-on-surface font-semibold italic">"Led Maharashtra State U-19 to National Championship 2022"</p>
+<p class="text-on-surface-variant font-label-md uppercase mb-1">Vision</p>
+<p class="text-on-surface font-semibold italic">"Building champions on and off the field through discipline, science, and heart."</p>
 </div>
 </div>
 </div>
 <!-- Coach Card 2 -->
 <div class="coach-card group relative bg-white rounded-xl overflow-hidden soft-ambient-shadow border border-outline-variant/30 transition-all duration-500 hover:-translate-y-2">
 <div class="relative h-96 overflow-hidden">
-<img class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" data-alt="A professional studio portrait of a female tennis coach in her 30s, holding a tennis racket with confidence. She has a bright, encouraging smile and is wearing a sleek white athletic visor and performance gear. The lighting is bright and airy, reflecting a warm golden light-mode aesthetic. The background is a minimalist blue tennis court surface, blurred to emphasize the subject." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCrwJhXdipUlmFKbRgwusfKS9wYUDXStvdq3B92HXHQ0zN8G31cpa8Vmd_9ES1pY6Ieq1hgZHS4D1fW9OGTDjog24GF066Ms89C_Hocb_gzFhtwkeUr7wSaOnJMy3JTOeRN16QyTHXIDVwpn1OtJCV0Cq6kkpxY-RVmdIBg_x6AqcyqZt9aNhPnMV3Jd9o3VDbiUNV24wkOarN0vJpN6muiehUjThMxaAr24QWlXOff8--B6pBx6qiWMg" decoding="async"/>
+<img class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCtkkHGNp-eF3baTcVhv14ThurZshK7d2tzeWeN0o0gSgSnq0zpwM_KFdb46fEB_SRMaoEyj3lWWVii8_ftsvcDVYz0UiYTHd0pqfVV-AuOYds0xQn4EDyaXgpWPDTLqqoPqP741w8KMq5TWfACC1LjO4kTljFo7A5XmMo22VA6opAISp_Jhf7suI4RVHSqvNOWvQr-48uGJC80Jn3LdfZIuS3bdpbn-NSedo25xTl6ZoftteqtvJc8Fg" alt="Manthan Sawant - Football Coach at DG Sports Club" decoding="async"/>
 <div class="coach-overlay absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent opacity-0 transition-opacity duration-300 flex flex-col justify-end p-8">
 <div class="flex gap-4 mb-4">
-<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="#"><span class="material-symbols-outlined text-sm">share</span></a>
-<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="#"><span class="material-symbols-outlined text-sm">mail</span></a>
+<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="tel:+918286132342"><span class="material-symbols-outlined text-sm">call</span></a>
+<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="mailto:dgsportsclubvirar@gmail.com"><span class="material-symbols-outlined text-sm">mail</span></a>
 </div>
 </div>
 </div>
 <div class="p-8">
 <div class="flex justify-between items-start mb-2">
 <div>
-<h3 class="font-headline-sm text-headline-sm text-primary">Ananya Sharma</h3>
-<p class="text-secondary font-label-lg font-bold">Elite Tennis Mentor</p>
+<h3 class="font-headline-sm text-headline-sm text-primary">Manthan Sawant</h3>
+<p class="text-secondary font-label-lg font-bold">Football Coach</p>
 </div>
-<span class="bg-surface-container-high text-on-surface-variant px-3 py-1 rounded-full font-label-md">10+ Yrs Exp</span>
+<span class="bg-surface-container-high text-on-surface-variant px-3 py-1 rounded-full font-label-md">8+ Yrs Exp</span>
 </div>
+<p class="text-on-surface-variant text-sm mt-2">Tactics &bull; Ball Control &bull; Team Strategy</p>
 <div class="mt-4 pt-4 border-t border-outline-variant/30">
-<p class="text-on-surface-variant font-label-md uppercase mb-1">Key Achievement</p>
-<p class="text-on-surface font-semibold italic">"Former ITF Pro Circuit Finalist &amp; Certified Level-3 Coach"</p>
+<p class="text-on-surface-variant font-label-md uppercase mb-1">Specialization</p>
+<p class="text-on-surface font-semibold italic">"Developing tactical gameplay, ball control, and team strategy for competitive football."</p>
 </div>
 </div>
 </div>
 <!-- Coach Card 3 -->
 <div class="coach-card group relative bg-white rounded-xl overflow-hidden soft-ambient-shadow border border-outline-variant/30 transition-all duration-500 hover:-translate-y-2">
 <div class="relative h-96 overflow-hidden">
-<img class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" data-alt="A powerful studio photograph of a male strength and conditioning coach with a muscular, athletic build. He is leaning against a minimalist gym wall with arms crossed, exuding discipline and expertise. He wears a fitted black training shirt. The lighting uses dramatic side-lighting to accentuate muscle definition, set in a sophisticated modern gym environment with blue accent lights." src="https://lh3.googleusercontent.com/aida-public/AB6AXuC_5B8lLVD2G5vzO0kpOmy0frYXpRZv0FZmQop1FGOJZy0lXSkyME9woaB7KbEgEHV2kv6DuHKOWK5zxwfHV0CBggfJWr5f7E7fhKUPUfVYhfPE2w17fGvUbCBJr0w81HnwQFxsfVTS9_c6rHKnh__k5Qwi-EMRBgG8LP3qFpnvg4j-0baVJFzkKUC0SfrbLlTSih8S5CgIpIFZohg5N7KgDY6kK46eTDlKXwwoJnFHOOhodke4Aa5vzA" decoding="async" loading="lazy"/>
+<img class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCFDzp89C931S3eGCFBL5xlmdBYLHGCzeMDAjg1UDRtTO9OTZ_UUoBdYySalpR26Q-51fvuq58D983nsrPDvln4zImdMs31_t9ljTqPBYb42wl_dz8_mtR6lW1YTHI-kKx2rt1e5YlPbFRVdnmycY9rh-TQdT3MBVr3xCOH9UCjVmT5-XlhHptuyKr9sAvzeshLQ6xPRI7Ch7JHV1gJ_KoU9cMdrdwEDVfFJ9t0GMGoe4pZZsU4JicL9g" alt="Kabaddi Coach at DG Sports Club" decoding="async"/>
 <div class="coach-overlay absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent opacity-0 transition-opacity duration-300 flex flex-col justify-end p-8">
 <div class="flex gap-4 mb-4">
-<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="#"><span class="material-symbols-outlined text-sm">share</span></a>
-<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="#"><span class="material-symbols-outlined text-sm">mail</span></a>
+<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="tel:+918286132342"><span class="material-symbols-outlined text-sm">call</span></a>
+<a class="w-10 h-10 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white hover:bg-[#F4B400] hover:text-[#072B61] transition-all" href="mailto:dgsportsclubvirar@gmail.com"><span class="material-symbols-outlined text-sm">mail</span></a>
 </div>
 </div>
 </div>
 <div class="p-8">
 <div class="flex justify-between items-start mb-2">
 <div>
-<h3 class="font-headline-sm text-headline-sm text-primary">Marcus D'Souza</h3>
-<p class="text-secondary font-label-lg font-bold">Strength &amp; Conditioning</p>
+<h3 class="font-headline-sm text-headline-sm text-primary">Kabaddi Coach</h3>
+<p class="text-secondary font-label-lg font-bold">Coming Soon</p>
 </div>
-<span class="bg-surface-container-high text-on-surface-variant px-3 py-1 rounded-full font-label-md">12+ Yrs Exp</span>
+<span class="bg-surface-container-high text-on-surface-variant px-3 py-1 rounded-full font-label-md">TBA</span>
 </div>
+<p class="text-on-surface-variant text-sm mt-2">Raids &bull; Tackles &bull; Team Strategy</p>
 <div class="mt-4 pt-4 border-t border-outline-variant/30">
-<p class="text-on-surface-variant font-label-md uppercase mb-1">Key Achievement</p>
-<p class="text-on-surface font-semibold italic">"Developed training protocols for National Swimming Squad"</p>
+<p class="text-on-surface-variant font-label-md uppercase mb-1">Specialization</p>
+<p class="text-on-surface font-semibold italic">"Training raiders and defenders with focus on agility, strength, and match strategy."</p>
 </div>
 </div>
 </div>
@@ -304,8 +312,8 @@
             
             <div class="flex flex-col items-start">
                 <div class="flex items-center gap-3 mb-6">
-                    <img src="logo.png" alt="D.G. Sports Club Logo" class="h-12 w-auto" width="48" height="48" loading="lazy" decoding="async"/>
-                    <span class="font-display font-black text-xl text-white tracking-tight">D.G. Sports Club</span>
+                    <img src="logo.png" alt="DG Sports Club Logo" class="h-12 w-auto" width="48" height="48" loading="lazy" decoding="async"/>
+                    <span class="font-display font-black text-xl text-white tracking-tight">DG Sports Club</span>
                 </div>
                 <p class="text-white/60 text-sm leading-relaxed mb-6 font-medium">Building champions on and off the field since 2022. Virar's leading athletic performance academy.</p>
                 <div class="flex gap-4">
@@ -340,7 +348,7 @@
             <div>
                 <h4 class="font-display font-black text-white uppercase text-xs tracking-widest mb-6">Contact Us</h4>
                 <div class="space-y-4 text-white/60 text-sm font-medium">
-                    <p class="flex items-start gap-3"><span class="material-symbols-outlined text-accent text-lg">location_on</span> Main Stadium Complex, Virar East, Maharashtra 401305</p>
+                    <p class="flex items-start gap-3"><span class="material-symbols-outlined text-accent text-lg">location_on</span> St. Peter's High School, Manvelpada Road, Virar East - 401305</p><p class="flex items-start gap-3"><span class="material-symbols-outlined text-accent text-lg">location_on</span> St. Peter & Paul High School, Nana Nani Park, Virar East - 401305</p>
                     <p class="flex items-center gap-3"><span class="material-symbols-outlined text-accent text-lg">call</span> +91 82861 32342</p>
                     <p class="flex items-center gap-3"><span class="material-symbols-outlined text-accent text-lg">mail</span> dgsportsclubvirar@gmail.com</p>
                 </div>
@@ -450,4 +458,5 @@
             }
         });
     </script>
+<script src="assets/js/translations.js"></script>
 </body></html>

@@ -340,6 +340,7 @@ body {
     transform: translateY(100%);
     opacity: 0;
   }
+
   to {
     transform: translateY(0);
     opacity: 1;
@@ -350,10 +351,21 @@ body {
   animation: wordReveal 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 
-.word-reveal:nth-child(1) { animation-delay: 0.1s; }
-.word-reveal:nth-child(2) { animation-delay: 0.2s; }
-.word-reveal:nth-child(3) { animation-delay: 0.3s; }
-.word-reveal:nth-child(4) { animation-delay: 0.4s; }
+.word-reveal:nth-child(1) {
+  animation-delay: 0.1s;
+}
+
+.word-reveal:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.word-reveal:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+.word-reveal:nth-child(4) {
+  animation-delay: 0.4s;
+}
 
 /* ==========================================================================
    Card Components
@@ -568,6 +580,7 @@ body {
     opacity: 0;
     transform: translateY(-10px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -816,8 +829,15 @@ body {
 }
 
 @keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-20px); }
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-20px);
+  }
 }
 
 /* Pitch fragment */
@@ -835,8 +855,13 @@ body {
 }
 
 @keyframes marquee {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
 }
 
 .marquee-track:hover {
@@ -891,12 +916,29 @@ body {
 }
 
 /* Stagger delays */
-.stagger-1 { transition-delay: 100ms; }
-.stagger-2 { transition-delay: 200ms; }
-.stagger-3 { transition-delay: 300ms; }
-.stagger-4 { transition-delay: 400ms; }
-.stagger-5 { transition-delay: 500ms; }
-.stagger-6 { transition-delay: 600ms; }
+.stagger-1 {
+  transition-delay: 100ms;
+}
+
+.stagger-2 {
+  transition-delay: 200ms;
+}
+
+.stagger-3 {
+  transition-delay: 300ms;
+}
+
+.stagger-4 {
+  transition-delay: 400ms;
+}
+
+.stagger-5 {
+  transition-delay: 500ms;
+}
+
+.stagger-6 {
+  transition-delay: 600ms;
+}
 
 /* ==========================================================================
    Utility Classes
@@ -940,12 +982,29 @@ body {
 }
 
 /* Aspect ratios */
-.aspect-video { aspect-ratio: 16/9; }
-.aspect-square { aspect-ratio: 1/1; }
-.aspect-4-3 { aspect-ratio: 4/3; }
-.aspect-3-4 { aspect-ratio: 3/4; }
-.aspect-4-5 { aspect-ratio: 4/5; }
-.aspect-golden { aspect-ratio: 1.618/1; }
+.aspect-video {
+  aspect-ratio: 16/9;
+}
+
+.aspect-square {
+  aspect-ratio: 1/1;
+}
+
+.aspect-4-3 {
+  aspect-ratio: 4/3;
+}
+
+.aspect-3-4 {
+  aspect-ratio: 3/4;
+}
+
+.aspect-4-5 {
+  aspect-ratio: 4/5;
+}
+
+.aspect-golden {
+  aspect-ratio: 1.618/1;
+}
 
 /* Truncate text */
 .truncate-2 {
@@ -966,6 +1025,7 @@ body {
    Print Styles
    ========================================================================== */
 @media print {
+
   .skip-link,
   #custom-cursor,
   header,
@@ -998,6 +1058,7 @@ body {
    Reduced Motion
    ========================================================================== */
 @media (prefers-reduced-motion: reduce) {
+
   *,
   *::before,
   *::after {
@@ -1070,7 +1131,7 @@ body {
   }
 
   .glass-nav {
-    background: rgba(26, 29, 33, 0.75);
+    /* background: rgba(26, 29, 33, 0.75); */
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
   }
 }

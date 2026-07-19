@@ -106,8 +106,8 @@
     <header class="fixed top-0 w-full z-50 glass-nav" role="banner">
         <nav class="flex justify-between items-center px-6 md:px-12 py-4 max-w-7xl mx-auto" role="navigation" aria-label="Primary navigation">
             <a href="index.html" class="flex items-center gap-3 group">
-                <img src="logo.png" alt="D.G. Sports Club Logo" class="h-12 md:h-14 w-auto group-hover:scale-105 transition-transform duration-300" width="56" height="56" loading="eager" decoding="async"/>
-                <span class="font-display text-xl font-bold tracking-tight text-primary">D.G. Sports</span>
+                <img src="logo.png" alt="DG Sports Club Logo" class="h-12 md:h-14 w-auto group-hover:scale-105 transition-transform duration-300" width="56" height="56" loading="eager" decoding="async"/>
+                <span class="font-display text-xl font-bold tracking-tight text-primary">DG Sports Club</span>
             </a>
             <div class="hidden md:flex gap-8 items-center">
                 <a class="nav-link text-slate-neutral hover:text-primary transition-colors font-display text-sm uppercase tracking-wider" href="index.html">Home</a>
@@ -121,7 +121,12 @@
                 <a href="tel:+918286132342" class="hidden lg:flex items-center gap-2 border border-primary/20 text-primary px-6 py-2.5 rounded-full font-display text-sm font-semibold hover:bg-primary hover:text-white transition-all btn-hover-effect">
                     <span class="material-symbols-outlined text-sm">call</span> Call Admissions
                 </a>
-                <a href="contact.html" class="bg-primary text-white px-8 py-2.5 rounded-full font-display text-sm font-bold hover:scale-105 hover:bg-accent hover:text-primary transition-all btn-hover-effect">Join Now</a>
+                <div class="flex items-center gap-1 bg-surface rounded-full p-1 border border-outline-variant/30">
+<button class="lang-btn bg-primary text-white px-2 py-1 rounded-full text-xs font-bold cursor-pointer transition-all" data-lang="en" onclick="setLanguage('en')">EN</button>
+<button class="lang-btn text-primary hover:bg-primary/10 px-2 py-1 rounded-full text-xs font-bold cursor-pointer transition-all" data-lang="hi" onclick="setLanguage('hi')">HI</button>
+<button class="lang-btn text-primary hover:bg-primary/10 px-2 py-1 rounded-full text-xs font-bold cursor-pointer transition-all" data-lang="mr" onclick="setLanguage('mr')">MR</button>
+</div>
+<a href="contact.html" class="bg-primary text-white px-8 py-2.5 rounded-full font-display text-sm font-bold hover:scale-105 hover:bg-accent hover:text-primary transition-all btn-hover-effect">Join Now</a>
                 <button id="mobile-menu-btn" class="md:hidden text-primary z-50 focus:outline-none" aria-label="Open navigation menu" aria-expanded="false" aria-controls="mobile-menu">
                     <span class="material-symbols-outlined" aria-hidden="true" style="font-size: 32px;">menu</span>
                 </button>
@@ -231,8 +236,8 @@
 <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
 <div class="flex flex-col items-start">
 <div class="flex items-center gap-3 mb-6">
-<img src="logo.png" alt="D.G. Sports Club Logo" class="h-12 w-auto" width="48" height="48" loading="lazy" decoding="async"/>
-<span class="font-display font-black text-xl text-white tracking-tight">D.G. Sports Club</span>
+<img src="logo.png" alt="DG Sports Club Logo" class="h-12 w-auto" width="48" height="48" loading="lazy" decoding="async"/>
+<span class="font-display font-black text-xl text-white tracking-tight">DG Sports Club</span>
 </div>
 <p class="text-white/60 text-sm leading-relaxed mb-6 font-medium">Building champions on and off the field since 2022. Virar's leading athletic performance academy.</p>
 <div class="flex gap-4">
@@ -264,7 +269,7 @@
 <div>
 <h4 class="font-display font-black text-white uppercase text-xs tracking-widest mb-6">Contact Us</h4>
 <div class="space-y-4 text-white/60 text-sm font-medium">
-<p class="flex items-start gap-3"><span class="material-symbols-outlined text-accent text-lg">location_on</span> Main Stadium Complex, Virar East, Maharashtra 401305</p>
+<p class="flex items-start gap-3"><span class="material-symbols-outlined text-accent text-lg">location_on</span> St. Peter's High School, Manvelpada Road, Virar East - 401305</p><p class="flex items-start gap-3"><span class="material-symbols-outlined text-accent text-lg">location_on</span> St. Peter & Paul High School, Nana Nani Park, Virar East - 401305</p>
 <p class="flex items-center gap-3"><span class="material-symbols-outlined text-accent text-lg">call</span> +91 82861 32342</p>
 <p class="flex items-center gap-3"><span class="material-symbols-outlined text-accent text-lg">mail</span> dgsportsclubvirar@gmail.com</p>
 </div>
@@ -328,4 +333,5 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 </script>
+<script src="assets/js/translations.js"></script>
 </body></html>

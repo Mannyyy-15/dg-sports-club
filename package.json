@@ -4,59 +4,9 @@
   "description": "D.G. Sports Club - Premier Sports Academy in Virar, Maharashtra",
   "private": true,
   "scripts": {
-    "dev": "concurrently \"npm run dev:css\" \"npm run dev:server\"",
-    "dev:css": "tailwindcss -i ./src/input.css -o ./assets/css/tailwind.css --watch",
-    "dev:server": "npx serve . -p 3000",
-    "build": "npm run build:css && npm run build:minify && npm run build:validate",
-    "build:css": "tailwindcss -i ./src/input.css -o ./assets/css/tailwind.css --minify",
-    "build:minify": "npm run minify:html && npm run minify:css && npm run minify:js",
-    "minify:html": "html-minifier-terser --collapse-whitespace --remove-comments --minify-css --minify-js --remove-optional-tags --remove-redundant-attributes --use-short-doctype --input-dir . --output-dir dist --file-ext html",
-    "minify:css": "cleancss -o ./dist/assets/css/style.min.css ./assets/css/custom.css ./assets/css/tailwind.css",
-    "minify:js": "terser ./assets/js/main.js -o ./dist/assets/js/main.min.js --compress --mangle",
-    "build:validate": "npm run validate:html && npm run validate:schema",
-    "validate:html": "html-validate \"dist/**/*.html\"",
-    "validate:schema": "node scripts/validate-schema.js",
-    "lint": "npm run lint:css && npm run lint:js",
-    "lint:css": "stylelint \"assets/css/**/*.css\"",
-    "lint:js": "eslint \"assets/js/**/*.js\"",
-    "test": "npm run test:lighthouse && npm run test:accessibility",
-    "test:lighthouse": "lighthouse-ci autorun",
-    "test:accessibility": "pa11y-ci",
-    "preview": "npx serve dist -p 4000",
-    "deploy": "npm run build && npx vercel --prod",
-    "generate:sitemap": "node scripts/generate-sitemap.js",
-    "generate:schema": "node scripts/generate-schema.js",
-    "analyze": "npm run analyze:css && npm run analyze:bundle",
-    "analyze:css": "tailwindcss -i ./src/input.css -o ./assets/css/tailwind.css --minify && npx css-stats ./assets/css/tailwind.css",
-    "analyze:bundle": "webpack-bundle-analyzer"
-  },
-  "devDependencies": {
-    "@tailwindcss/forms": "^0.5.7",
-    "@tailwindcss/typography": "^0.5.10",
-    "autoprefixer": "^10.4.17",
-    "clean-css": "^5.3.3",
-    "concurrently": "^8.2.2",
-    "css-stats": "^2.1.0",
-    "eslint": "^8.56.0",
-    "html-minifier-terser": "^7.2.0",
-    "html-validate": "^8.15.0",
-    "lighthouse-ci": "^0.12.0",
-    "pa11y-ci": "^3.1.1",
-    "postcss": "^8.4.35",
-    "postcss-import": "^16.0.1",
-    "serve": "^14.2.1",
-    "stylelint": "^16.2.0",
-    "stylelint-config-standard": "^36.0.0",
-    "tailwindcss": "^3.4.1",
-    "terser": "^5.28.0"
+    "build": "echo 'Static site - no build needed'"
   },
   "engines": {
     "node": ">=18.0.0"
-  },
-  "browserslist": [
-    "last 2 versions",
-    "> 0.5%",
-    "not dead",
-    "not IE 11"
-  ]
+  }
 }

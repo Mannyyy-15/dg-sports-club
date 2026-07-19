@@ -116,8 +116,8 @@
     <header class="fixed top-0 w-full z-50 glass-nav" role="banner">
         <nav class="flex justify-between items-center px-6 md:px-12 py-4 max-w-7xl mx-auto" role="navigation" aria-label="Primary navigation">
             <a href="index.html" class="flex items-center gap-3 group">
-                <img src="logo.png" alt="D.G. Sports Club Logo" class="h-12 md:h-14 w-auto group-hover:scale-105 transition-transform duration-300" width="56" height="56" loading="eager" decoding="async"/>
-                <span class="font-display text-xl font-bold tracking-tight text-primary">D.G. Sports</span>
+                <img src="logo.png" alt="DG Sports Club Logo" class="h-12 md:h-14 w-auto group-hover:scale-105 transition-transform duration-300" width="56" height="56" loading="eager" decoding="async"/>
+                <span class="font-display text-xl font-bold tracking-tight text-primary">DG Sports Club</span>
             </a>
             
             <div class="hidden md:flex gap-8 items-center">
@@ -133,7 +133,12 @@
                 <a href="tel:+918286132342" class="hidden lg:flex items-center gap-2 border border-primary/20 text-primary px-6 py-2.5 rounded-full font-display text-sm font-semibold hover:bg-primary hover:text-white transition-all btn-hover-effect">
                     <span class="material-symbols-outlined text-sm">call</span> Call Admissions
                 </a>
-                <a href="contact.html" class="bg-primary text-white px-8 py-2.5 rounded-full font-display text-sm font-bold hover:scale-105 hover:bg-accent hover:text-primary transition-all btn-hover-effect">Join Now</a>
+                <div class="flex items-center gap-1 bg-surface rounded-full p-1 border border-outline-variant/30">
+<button class="lang-btn bg-primary text-white px-2 py-1 rounded-full text-xs font-bold cursor-pointer transition-all" data-lang="en" onclick="setLanguage('en')">EN</button>
+<button class="lang-btn text-primary hover:bg-primary/10 px-2 py-1 rounded-full text-xs font-bold cursor-pointer transition-all" data-lang="hi" onclick="setLanguage('hi')">HI</button>
+<button class="lang-btn text-primary hover:bg-primary/10 px-2 py-1 rounded-full text-xs font-bold cursor-pointer transition-all" data-lang="mr" onclick="setLanguage('mr')">MR</button>
+</div>
+<a href="contact.html" class="bg-primary text-white px-8 py-2.5 rounded-full font-display text-sm font-bold hover:scale-105 hover:bg-accent hover:text-primary transition-all btn-hover-effect">Join Now</a>
                 <button id="mobile-menu-btn" class="md:hidden text-primary z-50 focus:outline-none" aria-label="Open navigation menu" aria-expanded="false" aria-controls="mobile-menu">
                     <span class="material-symbols-outlined" aria-hidden="true" style="font-size: 32px;">menu</span>
                 </button>
@@ -201,42 +206,22 @@
 <span class="material-symbols-outlined text-sm">directions</span>
                             Get Directions
                         </a>
-<a class="flex items-center justify-center gap-2 border-2 border-primary text-primary py-3 rounded-lg font-bold hover:bg-primary/5 transition-all" href="https://wa.me/911234567890">
+<a class="flex items-center justify-center gap-2 border-2 border-primary text-primary py-3 rounded-lg font-bold hover:bg-primary/5 transition-all" href="https://wa.me/918286132342">
 <span class="material-symbols-outlined text-sm">chat</span>
                             WhatsApp
                         </a>
 </div>
 </div>
-<!-- Map Placeholder -->
+<!-- Google Map -->
 <div class="lg:col-span-7 h-[400px] lg:h-auto rounded-xl overflow-hidden soft-ambient-shadow relative order-1 lg:order-2">
-<div class="absolute inset-0 bg-surface-dim flex items-center justify-center">
-<div class="text-center z-10 p-md bg-white/80 backdrop-blur rounded-xl max-w-sm mx-auto shadow-lg">
-<span class="material-symbols-outlined text-primary text-4xl mb-2">location_on</span>
-<p class="font-bold text-primary mb-1">Interactive Map Preview</p>
-<p class="text-xs text-on-surface-variant mb-4">Click to open Google Maps for real-time traffic and exact navigation to St. Peter's High School.</p>
-<button class="bg-primary text-white text-xs px-4 py-2 rounded-full font-bold uppercase tracking-wider">Explore Location</button>
-</div>
-<div class="absolute inset-0 map-grayscale">
-<img class="w-full h-full object-cover" data-alt="A sophisticated, high-resolution grayscale aerial map of a modern athletic complex in a suburban Mumbai district. The image emphasizes the geometric layout of running tracks, tennis courts, and school buildings with a clean, architectural aesthetic. The lighting is soft morning sunlight, creating long, subtle shadows that define the landscape's topography. The overall mood is professional, precise, and high-end." src="https://lh3.googleusercontent.com/aida-public/AB6AXuARPpPbzFbicAvFRd_tlRHRADH4wdpWONR5u0Z41xTS-9jg3J90b71kRs48PEGMYtVYO9WY3F3CHSwL0V6_I5075h9QB9oiJ9p-DUMCXhBGN0ISmX-3Vg1vuBFCU_5uvTZkEPqwgmDibrXnMu1WCLEddpxM272Gtbl0NDw0_Qjky3Y6WTuuG3FOpGavLyeTCwWziAC2gWw6pjGho6aA2p13ipeSuQj57MkU184jksxc8EStaLHVC3mn2g" decoding="async"/>
-</div>
-</div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.0!2d72.84!3d19.46!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTnCsDI3JzM2LjAiTiA3MsKwNTAnMjQuMCJF!5e0!3m2!1sen!2sin!4v1" width="100%" height="100%" style="border:0; min-height: 400px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="St. Peter's High School, Manvelpada Road, Virar East - DG Sports Club Location 1"></iframe>
 </div>
 </section>
 <!-- Location 2: Nana Nani Park -->
 <section class="grid lg:grid-cols-12 gap-gutter group">
-<!-- Map Placeholder -->
+<!-- Google Map -->
 <div class="lg:col-span-7 h-[400px] lg:h-auto rounded-xl overflow-hidden soft-ambient-shadow relative">
-<div class="absolute inset-0 bg-surface-dim flex items-center justify-center">
-<div class="text-center z-10 p-md bg-white/80 backdrop-blur rounded-xl max-w-sm mx-auto shadow-lg">
-<span class="material-symbols-outlined text-primary text-4xl mb-2">location_on</span>
-<p class="font-bold text-primary mb-1">Interactive Map Preview</p>
-<p class="text-xs text-on-surface-variant mb-4">Explore our training center at St. Peter & Paul High School, Virar East.</p>
-<button class="bg-primary text-white text-xs px-4 py-2 rounded-full font-bold uppercase tracking-wider">Explore Location</button>
-</div>
-<div class="absolute inset-0 map-grayscale">
-<img class="w-full h-full object-cover" data-alt="A minimalist, top-down satellite view of a vibrant green public park featuring dedicated sports zones and walking tracks. The map is stylized with a grayscale filter to maintain a premium brand aesthetic, highlighting the contrast between the organic shapes of the park and the structured grid of the surrounding urban environment in Virar East. The lighting is bright and clear, conveying a sense of open-air accessibility and community energy." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAzOzPcCcuRQLgZjqYRlBFywgp8sCXvpXP1DNExKAxo82xA6p6SH_COnPG-WveRvK4QSQHPOPab_EPU6BUPSphn1TZO2ZVlutotI3xlzsB8SOt-Dm__FUGydSHRVJF1bgKgeVoKA33NEzKwD_DK4pM6EEyYe3COpFv10nIFxQyvV6kLCJ9GRR1v7DkguDXtZph8kNgPbfq8_auk4tOAPsEY-Z_cyQDnikBRb4Qm0DeGs0-Um3maPOktwA" decoding="async"/>
-</div>
-</div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.0!2d72.84!3d19.46!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTnCsDI3JzM2LjAiTiA3MsKwNTAnMjQuMCJF!5e0!3m2!1sen!2sin!4v2" width="100%" height="100%" style="border:0; min-height: 400px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="St. Peter & Paul High School, Nana Nani Park, Virar East - DG Sports Club Location 2"></iframe>
 </div>
 <!-- Info Card -->
 <div class="lg:col-span-5 bg-surface-container-lowest p-lg rounded-xl border border-outline-variant/30 soft-ambient-shadow flex flex-col justify-between">
@@ -281,7 +266,7 @@
 <span class="material-symbols-outlined text-sm">directions</span>
                             Get Directions
                         </a>
-<a class="flex items-center justify-center gap-2 border-2 border-primary text-primary py-3 rounded-lg font-bold hover:bg-primary/5 transition-all" href="https://wa.me/911234567890">
+<a class="flex items-center justify-center gap-2 border-2 border-primary text-primary py-3 rounded-lg font-bold hover:bg-primary/5 transition-all" href="https://wa.me/918286132342">
 <span class="material-symbols-outlined text-sm">chat</span>
                             WhatsApp
                         </a>
@@ -322,8 +307,8 @@
             
             <div class="flex flex-col items-start">
                 <div class="flex items-center gap-3 mb-6">
-                    <img src="logo.png" alt="D.G. Sports Club Logo" class="h-12 w-auto" width="48" height="48" loading="lazy" decoding="async"/>
-                    <span class="font-display font-black text-xl text-white tracking-tight">D.G. Sports Club</span>
+                    <img src="logo.png" alt="DG Sports Club Logo" class="h-12 w-auto" width="48" height="48" loading="lazy" decoding="async"/>
+                    <span class="font-display font-black text-xl text-white tracking-tight">DG Sports Club</span>
                 </div>
                 <p class="text-white/60 text-sm leading-relaxed mb-6 font-medium">Building champions on and off the field since 2022. Virar's leading athletic performance academy.</p>
                 <div class="flex gap-4">
@@ -358,7 +343,7 @@
             <div>
                 <h4 class="font-display font-black text-white uppercase text-xs tracking-widest mb-6">Contact Us</h4>
                 <div class="space-y-4 text-white/60 text-sm font-medium">
-                    <p class="flex items-start gap-3"><span class="material-symbols-outlined text-accent text-lg">location_on</span> Main Stadium Complex, Virar East, Maharashtra 401305</p>
+                    <p class="flex items-start gap-3"><span class="material-symbols-outlined text-accent text-lg">location_on</span> St. Peter's High School, Manvelpada Road, Virar East - 401305</p><p class="flex items-start gap-3"><span class="material-symbols-outlined text-accent text-lg">location_on</span> St. Peter & Paul High School, Nana Nani Park, Virar East - 401305</p>
                     <p class="flex items-center gap-3"><span class="material-symbols-outlined text-accent text-lg">call</span> +91 82861 32342</p>
                     <p class="flex items-center gap-3"><span class="material-symbols-outlined text-accent text-lg">mail</span> dgsportsclubvirar@gmail.com</p>
                 </div>
@@ -446,4 +431,5 @@
             }
         });
     </script>
+<script src="assets/js/translations.js"></script>
 </body></html>
