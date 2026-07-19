@@ -1,12 +1,6 @@
 {
   "name": "dg-sports-club",
   "version": "2.0.0",
-  "description": "D.G. Sports Club - Premier Sports Academy in Virar, Maharashtra",
-  "private": true,
-  "scripts": {
-    "build": "echo 'Static site - no build needed'"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  }
+  "description": "DG Sports Club - Premier Sports Academy in Virar, Maharashtra",
+  "private": true
 }
