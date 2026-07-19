@@ -14,7 +14,7 @@
     <loc>https://dg-sports-club-five.vercel.app/about.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/about.html" />
   </url>
   <url>
@@ -72,5 +72,75 @@
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/404.html" />
+  </url>
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/athletics.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/athletics.html" />
+  </url>
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/football.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/football.html" />
+  </url>
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/fitness.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/fitness.html" />
+  </url>
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/kabaddi.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/kabaddi.html" />
+  </url>
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/yoga.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/yoga.html" />
+  </url>
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/running.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/running.html" />
+  </url>
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/hurdles.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/hurdles.html" />
+  </url>
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/shotput.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/shotput.html" />
+  </url>
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/longjump.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/longjump.html" />
+  </url>
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/conedrills.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://dg-sports-club-five.vercel.app/conedrills.html" />
   </url>
 </urlset>

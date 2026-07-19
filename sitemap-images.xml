@@ -213,4 +213,357 @@
       <image:caption>Near Mohid Heights, Virar East, 401305</image:caption>
     </image:image>
   </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/athletics.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/athletics-hero.webp</image:loc>
+      <image:title>Athletics Track & Field Training</image:title>
+      <image:caption>Professional sprint and endurance coaching</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/athletics-sprint.webp</image:loc>
+      <image:title>Sprint Training Techniques</image:title>
+      <image:caption>Explosive start and acceleration drills</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/athletics-jumps.webp</image:loc>
+      <image:title>Long Jump & High Jump Training</image:title>
+      <image:caption>Technique refinement for horizontal and vertical jumps</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/football.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/football-hero.webp</image:loc>
+      <image:title>Football Academy Program</image:title>
+      <image:caption>Professional football coaching for all ages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/football-drills.webp</image:loc>
+      <image:title>Football Technical Drills</image:title>
+      <image:caption>Ball mastery and tactical awareness training</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/football-match.webp</image:loc>
+      <image:title>Competitive Match Play</image:title>
+      <image:caption>Regular tournament participation</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/fitness.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/fitness-hero.webp</image:loc>
+      <image:title>Strength & Conditioning Center</image:title>
+      <image:caption>Science-based physical preparation</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/fitness-equipment.webp</image:loc>
+      <image:title>Modern Fitness Equipment</image:title>
+      <image:caption>State-of-the-art training facilities</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/kabaddi.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/kabaddi-hero.webp</image:loc>
+      <image:title>Kabaddi Training Arena</image:title>
+      <image:caption>Traditional sport with modern coaching</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/kabaddi-techniques.webp</image:loc>
+      <image:title>Kabaddi Raiding & Defense</image:title>
+      <image:caption>Technical skill development</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/yoga.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/yoga-hero.webp</image:loc>
+      <image:title>Yoga & Mindfulness Studio</image:title>
+      <image:caption>Flexibility, breathing and mental resilience</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/yoga-session.webp</image:loc>
+      <image:title>Yoga Session in Progress</image:title>
+      <image:caption>Guided meditation and asana practice</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/running.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/running-hero.webp</image:loc>
+      <image:title>Running & Endurance Training</image:title>
+      <image:caption>Long distance and sprint programs</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/running-track.webp</image:loc>
+      <image:title>Olympic Standard Track</image:title>
+      <image:caption>400m synthetic track facility</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/hurdles.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/hurdles-hero.webp</image:loc>
+      <image:title>Hurdles Training Program</image:title>
+      <image:caption>Technique and rhythm development</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/hurdles-drills.webp</image:loc>
+      <image:title>Hurdle Drills & Technique</image:title>
+      <image:caption>Lead leg, trail leg, and approach training</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/shotput.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/shotput-hero.webp</image:loc>
+      <image:title>Shot Put Training Circle</image:title>
+      <image:caption>Throwing technique and power development</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/shotput-technique.webp</image:loc>
+      <image:title>Shot Put Technique Analysis</image:title>
+      <image:caption>Glide and rotational method coaching</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/longjump.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/longjump-hero.webp</image:loc>
+      <image:title>Long Jump Sand Pit</image:title>
+      <image:caption>Approach run and takeoff training</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/longjump-approach.webp</image:loc>
+      <image:title>Long Jump Approach Run</image:title>
+      <image:caption>Speed and consistency development</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/conedrills.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/conedrills-hero.webp</image:loc>
+      <image:title>Cone Drills & Agility Training</image:title>
+      <image:caption>Speed, agility, and quickness development</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/conedrills-setup.webp</image:loc>
+      <image:title>Agility Course Setup</image:title>
+      <image:caption>Ladder, cone, and hurdle configurations</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/blog-hero.webp</image:loc>
+      <image:title>DG Sports Club Blog</image:title>
+      <image:caption>Expert insights on youth sports training</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>DG Sports Club Logo</image:title>
+      <image:caption>Official club logo</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/why-sports-are-important-for-children.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Why Sports Are Important for Children</image:title>
+      <image:caption>Children playing sports at DG Sports Club</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/benefits-of-athletics-for-kids.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Benefits of Athletics for Kids</image:title>
+      <image:caption>Athletics training benefits for children</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/best-summer-activities-for-children.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Best Summer Activities for Children</image:title>
+      <image:caption>Summer sports camp activities</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/common-sports-injuries-and-prevention.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Common Sports Injuries and Prevention</image:title>
+      <image:caption>Injury prevention strategies for young athletes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/difference-between-athletics-and-general-fitness.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Difference Between Athletics and General Fitness</image:title>
+      <image:caption>Comparing athletics training and general fitness</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/football-coaching-for-beginners.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Football Coaching for Beginners</image:title>
+      <image:caption>Beginner football training drills</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/how-parents-can-support-young-athletes.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>How Parents Can Support Young Athletes</image:title>
+      <image:caption>Parental support in youth sports</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/how-sports-improve-academic-performance.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>How Sports Improve Academic Performance</image:title>
+      <image:caption>Sports and academic achievement connection</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/how-to-choose-right-sports-academy-in-virar.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>How to Choose Right Sports Academy in Virar</image:title>
+      <image:caption>Choosing the best sports academy</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/importance-of-warmup-and-cooldown.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Importance of Warmup and Cooldown</image:title>
+      <image:caption>Proper warmup and cooldown exercises</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/nutrition-tips-for-young-athletes.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Nutrition Tips for Young Athletes</image:title>
+      <image:caption>Healthy nutrition for youth sports</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/preparing-for-school-sports-competitions.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Preparing for School Sports Competitions</image:title>
+      <image:caption>Competition preparation guide</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/top-10-benefits-of-physical-fitness-for-children.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Top 10 Benefits of Physical Fitness for Children</image:title>
+      <image:caption>Physical fitness benefits for kids</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/why-team-sports-build-confidence.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Why Team Sports Build Confidence</image:title>
+      <image:caption>Team sports confidence building</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/kabaddi-training-for-young-athletes.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/logo.png</image:loc>
+      <image:title>Kabaddi Training for Young Athletes</image:title>
+      <image:caption>Kabaddi coaching for youth</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/category/athletics.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/athletics-hero.webp</image:loc>
+      <image:title>Athletics Category - DG Sports Club Blog</image:title>
+      <image:caption>Track and field training articles</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/category/fitness.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/fitness-hero.webp</image:loc>
+      <image:title>Fitness Category - DG Sports Club Blog</image:title>
+      <image:caption>Strength and conditioning articles</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/category/football.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/football-hero.webp</image:loc>
+      <image:title>Football Category - DG Sports Club Blog</image:title>
+      <image:caption>Football coaching and training articles</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/category/kabaddi.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/kabaddi-hero.webp</image:loc>
+      <image:title>Kabaddi Category - DG Sports Club Blog</image:title>
+      <image:caption>Kabaddi training and technique articles</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/category/sports-nutrition.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/nutrition-hero.webp</image:loc>
+      <image:title>Sports Nutrition Category - DG Sports Club Blog</image:title>
+      <image:caption>Nutrition tips for young athletes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dg-sports-club-five.vercel.app/blog/category/yoga.html</loc>
+    <image:image>
+      <image:loc>https://dg-sports-club-five.vercel.app/images/yoga-hero.webp</image:loc>
+      <image:title>Yoga Category - DG Sports Club Blog</image:title>
+      <image:caption>Yoga and mindfulness articles</image:caption>
+    </image:image>
+  </url>
 </urlset>

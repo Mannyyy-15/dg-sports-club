@@ -42,6 +42,8 @@ Allow: /logo.png
 
 # Sitemap locations
 Sitemap: https://dg-sports-club-five.vercel.app/sitemap.xml
+Sitemap: https://dg-sports-club-five.vercel.app/sitemap-pages.xml
+Sitemap: https://dg-sports-club-five.vercel.app/sitemap-blog.xml
 Sitemap: https://dg-sports-club-five.vercel.app/sitemap-images.xml
 Sitemap: https://dg-sports-club-five.vercel.app/sitemap-videos.xml
 
